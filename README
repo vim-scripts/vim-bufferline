@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4595
+
+Super simple vim plugin to show the list of buffers in the command bar.
+
+Screenshot here: https://raw.github.com/bling/vim-bufferline/master/bufferline.png
+
+Latest versions can be found at https://github.com/bling/vim-bufferline
